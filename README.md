@@ -14,6 +14,8 @@ I created PomodoroStream as a personal productivity tool to help me study using 
 - Pause and resume timer functionality
 - Track and view your progress with a timer log
 
+<img src="https://github.com/sghaierwalaeddine/PomodoroStream/blob/a1e7885a6c850485bf4e6164bb5096b3ae546d07/PomodoroStreamApp.png" alt="App Logo" width="500"/>
+
 ## Technologies Used
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
