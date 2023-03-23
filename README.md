@@ -1,8 +1,10 @@
 # PomodoroStream
 
 PomodoroStream is a productivity app that helps users study using the Pomodoro technique. Set custom timers and stay focused with soothing background sounds. 
-<h3> Say goodbye to distractions and hello to productive study sessions with PomodoroStream </h3>
+<br/>
 
+ <h4> Say goodbye to distractions and hello to productive study sessions with PomodoroStream. </h4>
+ 
 ## Why I made it?
 
 I created PomodoroStream as a personal productivity tool to help me study using the Pomodoro technique. Whenever I encountered a problem or challenge, I used my technical knowledge to develop a solution that would improve my study sessions. I hope that this app can help others as much as it has helped me!
