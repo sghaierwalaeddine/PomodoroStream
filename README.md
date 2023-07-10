@@ -37,9 +37,6 @@ I created PomodoroStream as a personal productivity tool to help me study using 
 
 Contributions are welcome! Please open a pull request with any changes or improvements.
 
-## Credits
-
-PomodoroStream was created by Wala Eddine Sghaier.
 
 ## License
 
